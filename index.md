@@ -68,7 +68,7 @@ Zacznijmy razem pracować nad nową formuła spotkań, opartą o środowisko bez
 Autorzy:
 [Marcin Grzejszczak](https://www.linkedin.com/in/marcin-grzejszczak-15565119/), [Damian Leszczyński](https://www.linkedin.com/in/dleszczynski/) i [Jakub Marchwicki](https://www.linkedin.com/in/kubamarchwicki/)
 
-PS. Nasze code of conduct: http://pl.communitycodeofconduct.com/
+PS. [Nasze code of conduct](http://pl.communitycodeofconduct.com/)
 
 [1]: https://www.mckinsey.com/~/media/mckinsey/business%20functions/organization/our%20insights/delivering%20through%20diversity/delivering-through-diversity_full-report.ashx
 [2]: http://www.businessinsider.com/gendered-language-in-performance-reviews-2015-10?IR=T

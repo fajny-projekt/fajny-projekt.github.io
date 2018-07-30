@@ -70,7 +70,6 @@ Autorzy:
 
 PS. Nasze code of conduct: http://pl.communitycodeofconduct.com/
 
-Odnośniki przywołane w artykule:
-* [1]: https://www.mckinsey.com/~/media/mckinsey/business%20functions/organization/our%20insights/delivering%20through%20diversity/delivering-through-diversity_full-report.ashx
-* [2]: http://www.businessinsider.com/gendered-language-in-performance-reviews-2015-10?IR=T
-* [3]: https://content.pivotal.io/blog/pay-transparency-and-pay-equity-new-measures-and-progress
+[1]: https://www.mckinsey.com/~/media/mckinsey/business%20functions/organization/our%20insights/delivering%20through%20diversity/delivering-through-diversity_full-report.ashx
+[2]: http://www.businessinsider.com/gendered-language-in-performance-reviews-2015-10?IR=T
+[3]: https://content.pivotal.io/blog/pay-transparency-and-pay-equity-new-measures-and-progress
